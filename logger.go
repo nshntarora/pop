@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/fatih/color"
-	"github.com/gobuffalo/pop/v6/logging"
+	"github.com/nshntarora/pop/logging"
 )
 
 // Debug mode, to toggle verbose log traces

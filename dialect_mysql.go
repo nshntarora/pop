@@ -11,10 +11,10 @@ import (
 	_mysql "github.com/go-sql-driver/mysql" // Load MySQL Go driver
 	"github.com/gobuffalo/fizz"
 	"github.com/gobuffalo/fizz/translators"
-	"github.com/gobuffalo/pop/v6/columns"
-	"github.com/gobuffalo/pop/v6/internal/defaults"
-	"github.com/gobuffalo/pop/v6/logging"
 	"github.com/jmoiron/sqlx"
+	"github.com/nshntarora/pop/columns"
+	"github.com/nshntarora/pop/internal/defaults"
+	"github.com/nshntarora/pop/logging"
 )
 
 const nameMySQL = "mysql"

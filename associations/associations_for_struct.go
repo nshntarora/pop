@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gobuffalo/pop/v6/columns"
+	"github.com/nshntarora/pop/columns"
 )
 
 // If a field match with the regexp, it will be considered as a valid field definition.

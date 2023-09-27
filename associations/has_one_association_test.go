@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/gobuffalo/nulls"
-	"github.com/gobuffalo/pop/v6/associations"
 	"github.com/gofrs/uuid"
+	"github.com/nshntarora/pop/associations"
 	"github.com/stretchr/testify/require"
 )
 

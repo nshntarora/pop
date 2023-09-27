@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gobuffalo/pop/v6/internal/defaults"
-	"github.com/gobuffalo/pop/v6/logging"
 	"github.com/luna-duclos/instrumentedsql"
+	"github.com/nshntarora/pop/internal/defaults"
+	"github.com/nshntarora/pop/logging"
 )
 
 // ConnectionDetails stores the data needed to connect to a datasource

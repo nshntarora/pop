@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gobuffalo/pop/v6"
+	"github.com/nshntarora/pop"
 	"github.com/spf13/cobra"
 )
 

@@ -3,7 +3,7 @@ package pop
 import (
 	"fmt"
 
-	"github.com/gobuffalo/pop/v6/logging"
+	"github.com/nshntarora/pop/logging"
 )
 
 // CreateDB creates a database, given a connection definition

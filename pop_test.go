@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/gobuffalo/nulls"
-	"github.com/gobuffalo/pop/v6/logging"
 	"github.com/gobuffalo/validate/v3"
 	"github.com/gobuffalo/validate/v3/validators"
 	"github.com/gofrs/uuid"
+	"github.com/nshntarora/pop/logging"
 	"github.com/stretchr/testify/suite"
 )
 

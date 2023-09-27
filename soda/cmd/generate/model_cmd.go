@@ -10,9 +10,9 @@ import (
 	"github.com/gobuffalo/genny/v2"
 	"github.com/gobuffalo/genny/v2/gogen"
 	"github.com/gobuffalo/logger"
-	"github.com/gobuffalo/pop/v6"
-	"github.com/gobuffalo/pop/v6/genny/fizz/ctable"
-	gmodel "github.com/gobuffalo/pop/v6/genny/model"
+	"github.com/nshntarora/pop"
+	"github.com/nshntarora/pop/genny/fizz/ctable"
+	gmodel "github.com/nshntarora/pop/genny/model"
 	"github.com/spf13/cobra"
 )
 

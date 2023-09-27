@@ -6,9 +6,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gobuffalo/pop/v6/columns"
-	"github.com/gobuffalo/pop/v6/logging"
 	"github.com/jmoiron/sqlx"
+	"github.com/nshntarora/pop/columns"
+	"github.com/nshntarora/pop/logging"
 )
 
 type sqlBuilder struct {

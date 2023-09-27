@@ -4,7 +4,7 @@ import (
 	"io"
 
 	"github.com/gobuffalo/fizz"
-	"github.com/gobuffalo/pop/v6/columns"
+	"github.com/nshntarora/pop/columns"
 )
 
 type crudable interface {

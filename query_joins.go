@@ -1,7 +1,7 @@
 package pop
 
 import (
-	"github.com/gobuffalo/pop/v6/logging"
+	"github.com/nshntarora/pop/logging"
 )
 
 // Join will append a JOIN clause to the query

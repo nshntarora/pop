@@ -1,4 +1,4 @@
-module github.com/gobuffalo/pop/v6
+module github.com/nshntarora/pop
 
 go 1.18
 
